@@ -4,4 +4,4 @@
 
 ## Webseite: 
 
-https://vizsim.github.io/luftdaten_berlin/out_both_weekday_v04.html
+https://vizsim.github.io/luftdaten_berlin/luftdaten_berlin_viz_v05.html
